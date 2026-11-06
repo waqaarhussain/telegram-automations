@@ -1,0 +1,5 @@
+caldav>=2,<3
+icalendar>=6,<8
+msal>=1.32,<2
+python-docx>=1,<2
+requests>=2.32,<3
